@@ -1,3 +1,5 @@
-We present the class weights similarity on Cityscapes (left) and corresponding classwise mIoU improvement (right) between DeeplabV3+ and our E-CRF with ResNet101 as backbone in Figure below. It can be seen that the more the class weights similarity drops, the more the improvement is obtained.
+### "E-CRF: Embedded Conditional Random Field for Boundary-caused Class Weights Confusion in Semantic Segmentation" has been accepted by ICLR2023 !!!
 
 ![E-CRF](https://github.com/JiePKU/E-CRF/blob/master/img/gradient.JPG "E-CRF") 
+
+Code will be available soon!
